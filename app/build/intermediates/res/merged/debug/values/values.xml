@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clist_item_tag">#FFF8DC</color>
+    <color name="item1">#FFEC8B</color>
+    <color name="item2">#FFBBFF</color>
+    <color name="item3">#FFA07A</color>
+    <color name="item4">#ADD8E6</color>
+    <color name="item5">#969696</color>
+    <color name="item6">#E066FF</color>
+    <color name="item7">#EEE685</color>
+    <color name="item8">#7171C6</color>
+    <color name="item9">#ABABAB</color>
+    <color name="list_item_bg">#ece5d6</color>
+    <color name="list_item_bg_click">#dcd2b9</color>
+    <color name="list_item_font">#af9b87</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">健康养生食谱</string>
+    <string name="copy">复制</string>
+    <string name="item1">养生保健</string>
+    <string name="item2">癌症</string>
+    <string name="item3">男性</string>
+    <string name="item4">女性</string>
+    <string name="item5">呼吸道</string>
+    <string name="item6">心脏</string>
+    <string name="item7">神经系统</string>
+    <string name="item8">肌肉骨骼</string>
+    <string name="item9">其他</string>
+    <string name="search_empty_tip">暂时无法获取您要的食谱!</string>
+    <string name="search_tip">搜索食谱</string>
+    <string name="share">分享</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

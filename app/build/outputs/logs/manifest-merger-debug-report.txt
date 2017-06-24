@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5146b4cb7a3d2540014e04c5c621fdd47f6ae4d9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\28ab5021615fbbd9a7e7d3f09f27d8a0efa1fdc1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\1e961c9ca21851e837ac8d189800e7ec160628e2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\97e83df43964f2fc5b1368773ec56127db432058\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\91038608f3fc8d91bfa0ccd3946a8093171781ca\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\95e477a329031c78e0726d44c576ca4d864e6a0a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5146b4cb7a3d2540014e04c5c621fdd47f6ae4d9\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:12:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:17:22-65
+application
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:19:5-49:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5146b4cb7a3d2540014e04c5c621fdd47f6ae4d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\28ab5021615fbbd9a7e7d3f09f27d8a0efa1fdc1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\1e961c9ca21851e837ac8d189800e7ec160628e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\97e83df43964f2fc5b1368773ec56127db432058\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\91038608f3fc8d91bfa0ccd3946a8093171781ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\95e477a329031c78e0726d44c576ca4d864e6a0a\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:20:9-36
+	android:icon
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:21:9-38
+	android:theme
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:23:9-56
+activity#com.cb.nb.zk.WelcomeActivity
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:25:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.cb.nb.zk.MainActivity
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:34:13-40
+activity#com.cb.nb.zk.MListActivity
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:37:9-40:20
+	android:exported
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:38:13-41
+activity#com.cb.nb.zk.CListActivity
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:41:9-44:20
+	android:exported
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:42:13-41
+activity#com.cb.nb.zk.DetailActivity
+ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:45:9-48:20
+	android:exported
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\net\CookBook\app\src\main\AndroidManifest.xml:46:13-42
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5146b4cb7a3d2540014e04c5c621fdd47f6ae4d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\28ab5021615fbbd9a7e7d3f09f27d8a0efa1fdc1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\1e961c9ca21851e837ac8d189800e7ec160628e2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\97e83df43964f2fc5b1368773ec56127db432058\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\91038608f3fc8d91bfa0ccd3946a8093171781ca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\95e477a329031c78e0726d44c576ca4d864e6a0a\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5146b4cb7a3d2540014e04c5c621fdd47f6ae4d9\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5146b4cb7a3d2540014e04c5c621fdd47f6ae4d9\output\AndroidManifest.xml:26:9-47

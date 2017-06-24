@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clist_item.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\clist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clist.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\layout\\clist.xml"
+    }
+]

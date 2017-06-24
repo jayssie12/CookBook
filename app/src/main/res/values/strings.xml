@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">健康养生食谱</string>
+    
+    <string name="item1">养生保健</string>
+    <string name="item2">癌症</string>
+    <string name="item3">男性</string>
+    <string name="item4">女性</string>
+    <string name="item5">呼吸道</string>
+    <string name="item6">心脏</string>
+    <string name="item7">神经系统</string>
+    <string name="item8">肌肉骨骼</string>
+    <string name="item9">其他</string>
+    <!--<string name="item10">皮肤器官</string>-->
+    <!--<string name="item11">肠胃消化</string>-->
+    <!--<string name="item12">口腔呼吸</string>-->
+    <!--<string name="item13">肌肉神经</string>-->
+    <!--<string name="item14">癌症其他</string>-->
+    
+    <string name="copy">复制</string>
+    <string name="share">分享</string>
+    <string name="search_tip">搜索食谱</string>
+    <string name="search_empty_tip">暂时无法获取您要的食谱!</string>
+    
+    
+</resources>

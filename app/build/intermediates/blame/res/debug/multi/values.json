@@ -1,0 +1,600 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 399,
+                        "endColumn": 45,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 39,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 36,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 39,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 92,
+                        "endColumn": 36,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 39,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 130,
+                        "endColumn": 36,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 39,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 36,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 39,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 206,
+                        "endColumn": 36,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 39,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 244,
+                        "endColumn": 36,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 39,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 282,
+                        "endColumn": 36,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 39,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 320,
+                        "endColumn": 36,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 39,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 358,
+                        "endColumn": 36,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 46,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 446,
+                        "endColumn": 43,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 52,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 491,
+                        "endColumn": 49,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 48,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 542,
+                        "endColumn": 45,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 57,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 55,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 43,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endColumn": 35,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 35,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 38,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 38,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 36,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 36,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 36,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 36,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 920,
+                    "endColumn": 36,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 36,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 37,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 37,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 36,
+                    "endOffset": 1027
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 36,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1032,
+                    "endColumn": 38,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 38,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 38,
+                    "endOffset": 1105
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 38,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1110,
+                    "endColumn": 36,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 36,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 57,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 57,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endColumn": 43,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 43,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 36,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 36,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Downloads\\net\\CookBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
